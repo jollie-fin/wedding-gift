@@ -1,2 +1,2 @@
-# wedding-gift (2010)
+# wedding-gift (2010, POC)
 Firmware for a weird wedding gift
